@@ -1,0 +1,12 @@
+version: '3.4'
+
+services:
+  teamcity:
+    environment:
+      - ASPNETCORE_ENVIROMENT=Development
+    image: ${DOCKER_REGISTRY-}teamcity
+    build:
+      context: .
+      dockerfile: teamcity\Dockerfile
+    ports:
+      - "83"

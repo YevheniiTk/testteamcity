@@ -1,0 +1,5 @@
+D:\My Projects\testteamcity\teamcity\bin\Debug\teamcity.dll
+D:\My Projects\testteamcity\teamcity\bin\Debug\teamcity.pdb
+D:\My Projects\testteamcity\teamcity\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+D:\My Projects\testteamcity\teamcity\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\My Projects\testteamcity\teamcity\obj\Debug\docker-compose.dcproj.CopyComplete

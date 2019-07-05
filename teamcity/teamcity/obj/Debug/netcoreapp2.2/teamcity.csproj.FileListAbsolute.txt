@@ -1,0 +1,13 @@
+D:\My Projects\testteamcity\teamcity\teamcity\bin\Debug\netcoreapp2.2\teamcity.deps.json
+D:\My Projects\testteamcity\teamcity\teamcity\bin\Debug\netcoreapp2.2\teamcity.runtimeconfig.json
+D:\My Projects\testteamcity\teamcity\teamcity\bin\Debug\netcoreapp2.2\teamcity.runtimeconfig.dev.json
+D:\My Projects\testteamcity\teamcity\teamcity\bin\Debug\netcoreapp2.2\teamcity.dll
+D:\My Projects\testteamcity\teamcity\teamcity\bin\Debug\netcoreapp2.2\teamcity.pdb
+D:\My Projects\testteamcity\teamcity\teamcity\obj\Debug\netcoreapp2.2\teamcity.csproj.CoreCompileInputs.cache
+D:\My Projects\testteamcity\teamcity\teamcity\obj\Debug\netcoreapp2.2\teamcity.RazorAssemblyInfo.cache
+D:\My Projects\testteamcity\teamcity\teamcity\obj\Debug\netcoreapp2.2\teamcity.RazorAssemblyInfo.cs
+D:\My Projects\testteamcity\teamcity\teamcity\obj\Debug\netcoreapp2.2\teamcity.AssemblyInfoInputs.cache
+D:\My Projects\testteamcity\teamcity\teamcity\obj\Debug\netcoreapp2.2\teamcity.AssemblyInfo.cs
+D:\My Projects\testteamcity\teamcity\teamcity\obj\Debug\netcoreapp2.2\teamcity.RazorTargetAssemblyInfo.cache
+D:\My Projects\testteamcity\teamcity\teamcity\obj\Debug\netcoreapp2.2\teamcity.dll
+D:\My Projects\testteamcity\teamcity\teamcity\obj\Debug\netcoreapp2.2\teamcity.pdb

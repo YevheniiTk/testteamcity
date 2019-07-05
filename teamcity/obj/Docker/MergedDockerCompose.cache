@@ -1,0 +1,24 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  teamcity:
+    build:
+      context: D:\My Projects\testteamcity\teamcity
+      dockerfile: teamcity\Dockerfile
+    environment:
+      ASPNETCORE_ENVIROMENT: Development
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: teamcity
+    ports:
+    - published: 57530
+      target: 80
+    - target: 83
+    - published: 44391
+      target: 443
+    volumes:
+    - C:\Users\Yevhenii\AppData\Roaming\ASP.NET\Https:C:\Users\ContainerUser\AppData\Roaming\ASP.NET\Https:ro
+    - C:\Users\Yevhenii\AppData\Roaming\Microsoft\UserSecrets:C:\Users\ContainerUser\AppData\Roaming\Microsoft\UserSecrets:ro
+version: '3.4'
